@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeAByte.BizHawk.StpTool", "PokeAByte.BizHawk.StpTool.csproj", "{BB7AA03A-1CF9-4802-8C86-62889FAE57BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7AA03A-1CF9-4802-8C86-62889FAE57BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7AA03A-1CF9-4802-8C86-62889FAE57BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7AA03A-1CF9-4802-8C86-62889FAE57BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7AA03A-1CF9-4802-8C86-62889FAE57BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
